@@ -1,6 +1,6 @@
-1¡¢undefined   undefined
-2¡¢'Öé·å' 5000   undefined 5000
-3¡¢"300"  "100"            
-4¡¢9 16 36 64
-5¡¢4  5  14  22
-6¡¢true 20 NaN Object
+ï»¿1ã€undefined   undefined
+2ã€'ç å³°' 5000   undefined 5000
+3ã€"300"  "100"            
+4ã€9 16 36 64
+5ã€4  5  14  22
+6ã€true 20 NaN Object
